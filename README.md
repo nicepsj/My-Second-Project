@@ -46,4 +46,4 @@
 10. git restore --staged <파일명>
     >Staging Area의 파일을 working Directory로 가져옴
 
-![Git Sheat Sheet](asset/gitcheatsheet.jpg)
+![Git Sheat Sheet](asset/gitcheatsheet.gif)
